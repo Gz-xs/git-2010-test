@@ -12,4 +12,7 @@ class Git2010TestApplicationTests {
         int b=20;
     }
 
+    public static void main(String[] args) {
+        System.out.println("11111");
+    }
 }
