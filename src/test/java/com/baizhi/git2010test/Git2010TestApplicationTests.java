@@ -8,6 +8,8 @@ class Git2010TestApplicationTests {
 
     @Test
     void contextLoads() {
+        int a=10;
+        int b=20;
     }
 
 }
